@@ -1,0 +1,3440 @@
+drug,drug_id,disease_id
+clonazepam,145,134
+alprazolam,18,134
+lorazepam,349,134
+buspirone,92,134
+sertraline,508,134
+propranolol,479,134
+fluoxetine,258,134
+citalopram,141,134
+venlafaxine,577,134
+bupropion,90,134
+paroxetine,441,134
+clonazepam,145,134
+alprazolam,18,134
+lorazepam,349,134
+buspirone,92,134
+sertraline,508,134
+propranolol,479,134
+fluoxetine,258,134
+citalopram,141,134
+venlafaxine,577,134
+bupropion,90,134
+paroxetine,441,134
+clonazepam,145,134
+alprazolam,18,134
+lorazepam,349,134
+buspirone,92,134
+sertraline,508,134
+propranolol,479,134
+fluoxetine,258,134
+citalopram,141,134
+venlafaxine,577,134
+bupropion,90,134
+paroxetine,441,134
+oxandrolone,424,189
+somatropin,519,189
+estradiol,232,17
+estradiol,232,17
+conjugated estrogens,154,17
+conjugated estrogens,154,17
+estradiol,232,17
+estradiol,232,17
+conjugated estrogens,154,17
+conjugated estrogens,154,17
+acetazolamide,4,68
+brimonidine / timolol,86,68
+pilocarpine,457,68
+methazolamide,370,68
+nadolol,397,68
+apraclonidine,45,68
+carbachol,107,68
+mitomycin,387,68
+echothiophate iodide,211,68
+clopidogrel,147,185
+aspirin,50,185
+clopidogrel,147,185
+aspirin,50,185
+clopidogrel,147,185
+aspirin,50,185
+ranibizumab,489,49
+aflibercept,9,49
+gabapentin,264,64
+tramadol,557,64
+cyclobenzaprine,159,64
+duloxetine,210,64
+amitriptyline,30,64
+trazodone,560,64
+pregabalin,473,64
+meloxicam,362,64
+guaifenesin,273,64
+armodafinil,47,64
+nabilone,395,64
+prednisone,472,64
+milnacipran,382,64
+topiramate,554,64
+escitalopram,230,64
+metaxalone,368,64
+naltrexone,398,64
+venlafaxine,577,64
+fluoxetine,258,64
+sodium oxybate,514,64
+clindamycin,143,140
+metronidazole,378,140
+ciprofloxacin,138,140
+vancomycin,573,140
+ceftazidime,119,140
+cefotaxime,116,140
+ceftriaxone,120,140
+albumin human,11,140
+cefazolin,114,140
+cilastatin / imipenem,137,140
+gentamicin,267,140
+piperacillin / tazobactam,459,140
+cefuroxime,121,140
+montelukast,390,14
+prednisone,472,14
+ipratropium,314,14
+flunisolide,254,14
+methylprednisolone,375,14
+dexamethasone,184,14
+formoterol / mometasone,262,14
+triamcinolone,563,14
+fluticasone / vilanterol,260,14
+levalbuterol,340,14
+ciclesonide,135,14
+montelukast,390,14
+prednisone,472,14
+ipratropium,314,14
+flunisolide,254,14
+methylprednisolone,375,14
+dexamethasone,184,14
+formoterol / mometasone,262,14
+triamcinolone,563,14
+fluticasone / vilanterol,260,14
+levalbuterol,340,14
+ciclesonide,135,14
+montelukast,390,14
+prednisone,472,14
+ipratropium,314,14
+flunisolide,254,14
+methylprednisolone,375,14
+dexamethasone,184,14
+formoterol / mometasone,262,14
+triamcinolone,563,14
+fluticasone / vilanterol,260,14
+levalbuterol,340,14
+ciclesonide,135,14
+montelukast,390,14
+prednisone,472,14
+ipratropium,314,14
+flunisolide,254,14
+methylprednisolone,375,14
+dexamethasone,184,14
+formoterol / mometasone,262,14
+triamcinolone,563,14
+fluticasone / vilanterol,260,14
+levalbuterol,340,14
+ciclesonide,135,14
+sertraline,508,149
+citalopram,141,149
+fluoxetine,258,149
+venlafaxine,577,149
+paroxetine,441,149
+brexanolone,84,149
+sertraline,508,149
+citalopram,141,149
+fluoxetine,258,149
+venlafaxine,577,149
+paroxetine,441,149
+brexanolone,84,149
+sertraline,508,149
+citalopram,141,149
+fluoxetine,258,149
+venlafaxine,577,149
+paroxetine,441,149
+brexanolone,84,149
+sertraline,508,149
+citalopram,141,149
+fluoxetine,258,149
+venlafaxine,577,149
+paroxetine,441,149
+brexanolone,84,149
+sertraline,508,149
+citalopram,141,149
+fluoxetine,258,149
+venlafaxine,577,149
+paroxetine,441,149
+brexanolone,84,149
+sertraline,508,149
+citalopram,141,149
+fluoxetine,258,149
+venlafaxine,577,149
+paroxetine,441,149
+brexanolone,84,149
+octreotide,413,142
+leuprolide,339,193
+ulipristal,567,193
+fluconazole,251,195
+clotrimazole,149,195
+nystatin,412,195
+miconazole,380,195
+terconazole,543,195
+ketoconazole,326,195
+itraconazole,322,195
+tioconazole,551,195
+boric acid,80,195
+fluconazole,251,195
+clotrimazole,149,195
+nystatin,412,195
+miconazole,380,195
+terconazole,543,195
+ketoconazole,326,195
+itraconazole,322,195
+tioconazole,551,195
+boric acid,80,195
+fluconazole,251,195
+clotrimazole,149,195
+nystatin,412,195
+miconazole,380,195
+terconazole,543,195
+ketoconazole,326,195
+itraconazole,322,195
+tioconazole,551,195
+boric acid,80,195
+fluconazole,251,195
+clotrimazole,149,195
+nystatin,412,195
+miconazole,380,195
+terconazole,543,195
+ketoconazole,326,195
+itraconazole,322,195
+tioconazole,551,195
+boric acid,80,195
+fluconazole,251,195
+clotrimazole,149,195
+nystatin,412,195
+miconazole,380,195
+terconazole,543,195
+ketoconazole,326,195
+itraconazole,322,195
+tioconazole,551,195
+boric acid,80,195
+fluconazole,251,195
+clotrimazole,149,195
+nystatin,412,195
+miconazole,380,195
+terconazole,543,195
+ketoconazole,326,195
+itraconazole,322,195
+tioconazole,551,195
+boric acid,80,195
+fluconazole,251,195
+clotrimazole,149,195
+nystatin,412,195
+miconazole,380,195
+terconazole,543,195
+ketoconazole,326,195
+itraconazole,322,195
+tioconazole,551,195
+boric acid,80,195
+fluconazole,251,195
+clotrimazole,149,195
+nystatin,412,195
+miconazole,380,195
+terconazole,543,195
+ketoconazole,326,195
+itraconazole,322,195
+tioconazole,551,195
+boric acid,80,195
+oxybutynin,428,85
+aluminum chloride hexahydrate,21,85
+clonidine,146,85
+terazosin,542,85
+benztropine,72,85
+gabapentin,264,85
+amitriptyline,30,85
+glycopyrronium,271,85
+onabotulinumtoxinA,420,85
+oxybutynin,428,85
+aluminum chloride hexahydrate,21,85
+clonidine,146,85
+terazosin,542,85
+benztropine,72,85
+gabapentin,264,85
+amitriptyline,30,85
+glycopyrronium,271,85
+onabotulinumtoxinA,420,85
+oxybutynin,428,85
+aluminum chloride hexahydrate,21,85
+clonidine,146,85
+terazosin,542,85
+benztropine,72,85
+gabapentin,264,85
+amitriptyline,30,85
+glycopyrronium,271,85
+onabotulinumtoxinA,420,85
+oxybutynin,428,85
+aluminum chloride hexahydrate,21,85
+clonidine,146,85
+terazosin,542,85
+benztropine,72,85
+gabapentin,264,85
+amitriptyline,30,85
+glycopyrronium,271,85
+onabotulinumtoxinA,420,85
+oxybutynin,428,85
+aluminum chloride hexahydrate,21,85
+clonidine,146,85
+terazosin,542,85
+benztropine,72,85
+gabapentin,264,85
+amitriptyline,30,85
+glycopyrronium,271,85
+onabotulinumtoxinA,420,85
+spironolactone,523,3
+minoxidil,385,3
+triamcinolone,563,3
+sulfasalazine,532,3
+spironolactone,523,3
+minoxidil,385,3
+triamcinolone,563,3
+sulfasalazine,532,3
+spironolactone,523,3
+minoxidil,385,3
+triamcinolone,563,3
+sulfasalazine,532,3
+spironolactone,523,3
+minoxidil,385,3
+triamcinolone,563,3
+sulfasalazine,532,3
+spironolactone,523,3
+minoxidil,385,3
+triamcinolone,563,3
+sulfasalazine,532,3
+spironolactone,523,3
+minoxidil,385,3
+triamcinolone,563,3
+sulfasalazine,532,3
+calcium gluconate,101,86
+sodium bicarbonate,511,86
+sodium polystyrene sulfonate,515,86
+patiromer,442,86
+insulin regular,310,86
+calcium chloride,100,86
+sodium zirconium cyclosilicate,517,86
+acetaminophen,2,44
+acetaminophen,2,44
+acetaminophen,2,44
+digoxin,197,15
+metoprolol,377,15
+diltiazem,198,15
+flecainide,250,15
+sotalol,521,15
+carvedilol,112,15
+propafenone,478,15
+rivaroxaban,501,15
+dronedarone,209,15
+clonidine,146,15
+propranolol,479,15
+digoxin,197,15
+metoprolol,377,15
+diltiazem,198,15
+flecainide,250,15
+sotalol,521,15
+carvedilol,112,15
+propafenone,478,15
+rivaroxaban,501,15
+dronedarone,209,15
+clonidine,146,15
+propranolol,479,15
+digoxin,197,15
+metoprolol,377,15
+diltiazem,198,15
+flecainide,250,15
+sotalol,521,15
+carvedilol,112,15
+propafenone,478,15
+rivaroxaban,501,15
+dronedarone,209,15
+clonidine,146,15
+propranolol,479,15
+digoxin,197,15
+metoprolol,377,15
+diltiazem,198,15
+flecainide,250,15
+sotalol,521,15
+carvedilol,112,15
+propafenone,478,15
+rivaroxaban,501,15
+dronedarone,209,15
+clonidine,146,15
+propranolol,479,15
+digoxin,197,15
+metoprolol,377,15
+diltiazem,198,15
+flecainide,250,15
+sotalol,521,15
+carvedilol,112,15
+propafenone,478,15
+rivaroxaban,501,15
+dronedarone,209,15
+clonidine,146,15
+propranolol,479,15
+fluconazole,251,41
+amphotericin b,38,41
+flucytosine,252,41
+amphotericin b liposomal,40,41
+itraconazole,322,41
+amphotericin b lipid complex,39,41
+phentermine,453,126
+topiramate,554,126
+phendimetrazine,452,126
+bupropion,90,126
+orlistat,421,126
+diethylpropion,195,126
+methamphetamine,369,126
+lorcaserin,350,126
+phentermine / topiramate,454,126
+bupropion / naltrexone,91,126
+phentermine,453,126
+topiramate,554,126
+phendimetrazine,452,126
+bupropion,90,126
+orlistat,421,126
+diethylpropion,195,126
+methamphetamine,369,126
+lorcaserin,350,126
+phentermine / topiramate,454,126
+bupropion / naltrexone,91,126
+phentermine,453,126
+topiramate,554,126
+phendimetrazine,452,126
+bupropion,90,126
+orlistat,421,126
+diethylpropion,195,126
+methamphetamine,369,126
+lorcaserin,350,126
+phentermine / topiramate,454,126
+bupropion / naltrexone,91,126
+omeprazole,418,93
+ranitidine,490,93
+famotidine,242,93
+bismuth subsalicylate,78,93
+aluminum hydroxide / magnesium hydroxide / simethicone,23,93
+calcium carbonate,99,93
+magnesium hydroxide,356,93
+omeprazole,418,93
+ranitidine,490,93
+famotidine,242,93
+bismuth subsalicylate,78,93
+aluminum hydroxide / magnesium hydroxide / simethicone,23,93
+calcium carbonate,99,93
+magnesium hydroxide,356,93
+omeprazole,418,93
+ranitidine,490,93
+famotidine,242,93
+bismuth subsalicylate,78,93
+aluminum hydroxide / magnesium hydroxide / simethicone,23,93
+calcium carbonate,99,93
+magnesium hydroxide,356,93
+naproxen,399,25
+prednisone,472,25
+indomethacin,302,25
+dexamethasone,184,25
+cortisone,156,25
+triamcinolone,563,25
+betamethasone,74,25
+trolamine salicylate,566,25
+sulindac,533,25
+naproxen,399,25
+prednisone,472,25
+indomethacin,302,25
+dexamethasone,184,25
+cortisone,156,25
+triamcinolone,563,25
+betamethasone,74,25
+trolamine salicylate,566,25
+sulindac,533,25
+naproxen,399,25
+prednisone,472,25
+indomethacin,302,25
+dexamethasone,184,25
+cortisone,156,25
+triamcinolone,563,25
+betamethasone,74,25
+trolamine salicylate,566,25
+sulindac,533,25
+naproxen,399,25
+prednisone,472,25
+indomethacin,302,25
+dexamethasone,184,25
+cortisone,156,25
+triamcinolone,563,25
+betamethasone,74,25
+trolamine salicylate,566,25
+sulindac,533,25
+naproxen,399,25
+prednisone,472,25
+indomethacin,302,25
+dexamethasone,184,25
+cortisone,156,25
+triamcinolone,563,25
+betamethasone,74,25
+trolamine salicylate,566,25
+sulindac,533,25
+meloxicam,362,98
+naproxen,399,98
+prednisone,472,98
+sulfasalazine,532,98
+celecoxib,122,98
+etodolac,238,98
+aspirin,50,98
+ibuprofen,293,98
+dexamethasone,184,98
+etanercept,233,98
+oxaprozin,425,98
+sulindac,533,98
+meloxicam,362,98
+naproxen,399,98
+prednisone,472,98
+sulfasalazine,532,98
+celecoxib,122,98
+etodolac,238,98
+aspirin,50,98
+ibuprofen,293,98
+dexamethasone,184,98
+etanercept,233,98
+oxaprozin,425,98
+sulindac,533,98
+meloxicam,362,98
+naproxen,399,98
+prednisone,472,98
+sulfasalazine,532,98
+celecoxib,122,98
+etodolac,238,98
+aspirin,50,98
+ibuprofen,293,98
+dexamethasone,184,98
+etanercept,233,98
+oxaprozin,425,98
+sulindac,533,98
+fluorouracil,257,1
+aminolevulinic acid,28,1
+ingenol,304,1
+everolimus,240,188
+everolimus,240,188
+everolimus,240,188
+desmopressin,180,200
+antihemophilic factor / von willebrand factor,43,200
+von willebrand factor,585,200
+eculizumab,213,124
+permethrin,451,104
+lindane,344,104
+piperonyl butoxide / pyrethrins,460,104
+spinosad,522,104
+permethrin,451,104
+lindane,344,104
+piperonyl butoxide / pyrethrins,460,104
+spinosad,522,104
+permethrin,451,104
+lindane,344,104
+piperonyl butoxide / pyrethrins,460,104
+spinosad,522,104
+permethrin,451,104
+lindane,344,104
+piperonyl butoxide / pyrethrins,460,104
+spinosad,522,104
+permethrin,451,104
+lindane,344,104
+piperonyl butoxide / pyrethrins,460,104
+spinosad,522,104
+permethrin,451,104
+lindane,344,104
+piperonyl butoxide / pyrethrins,460,104
+spinosad,522,104
+permethrin,451,104
+lindane,344,104
+piperonyl butoxide / pyrethrins,460,104
+spinosad,522,104
+cyanocobalamin,158,198
+hydroxocobalamin,285,198
+amitriptyline,30,201
+gabapentin,264,201
+tramadol,557,201
+nortriptyline,411,201
+sertraline,508,201
+topiramate,554,201
+fluoxetine,258,201
+citalopram,141,201
+venlafaxine,577,201
+carbamazepine,108,201
+desipramine,179,201
+escitalopram,230,201
+paroxetine,441,201
+norethindrone,410,59
+medroxyprogesterone,359,59
+progesterone,477,59
+ethinyl estradiol / levonorgestrel,235,59
+danazol,169,59
+leuprolide,339,59
+ethinyl estradiol / norethindrone,236,59
+ethinyl estradiol / norgestimate,237,59
+prednisone,472,35
+dexamethasone,184,35
+triamcinolone,563,35
+cortisone,156,35
+corticotropin,155,35
+acyclovir,6,115
+acyclovir,6,115
+acyclovir,6,115
+baclofen,68,122
+nortriptyline,411,122
+pregabalin,473,122
+methylprednisolone,375,122
+levetiracetam,341,122
+citalopram,141,122
+desvenlafaxine,183,122
+baclofen,68,122
+nortriptyline,411,122
+pregabalin,473,122
+methylprednisolone,375,122
+levetiracetam,341,122
+citalopram,141,122
+desvenlafaxine,183,122
+enalapril,218,146
+lisinopril,346,146
+captopril,106,146
+enalapril,218,146
+lisinopril,346,146
+captopril,106,146
+enalapril,218,146
+lisinopril,346,146
+captopril,106,146
+enalapril,218,146
+lisinopril,346,146
+captopril,106,146
+lamotrigine,329,19
+lithium,347,19
+quetiapine,485,19
+gabapentin,264,19
+clonazepam,145,19
+divalproex sodium,201,19
+bupropion,90,19
+oxcarbazepine,427,19
+risperidone,499,19
+sertraline,508,19
+aripiprazole,46,19
+topiramate,554,19
+olanzapine,415,19
+venlafaxine,577,19
+lamotrigine,329,19
+lithium,347,19
+quetiapine,485,19
+gabapentin,264,19
+clonazepam,145,19
+divalproex sodium,201,19
+bupropion,90,19
+oxcarbazepine,427,19
+risperidone,499,19
+sertraline,508,19
+aripiprazole,46,19
+topiramate,554,19
+olanzapine,415,19
+venlafaxine,577,19
+lamotrigine,329,19
+lithium,347,19
+quetiapine,485,19
+gabapentin,264,19
+clonazepam,145,19
+divalproex sodium,201,19
+bupropion,90,19
+oxcarbazepine,427,19
+risperidone,499,19
+sertraline,508,19
+aripiprazole,46,19
+topiramate,554,19
+olanzapine,415,19
+venlafaxine,577,19
+lamotrigine,329,19
+lithium,347,19
+quetiapine,485,19
+gabapentin,264,19
+clonazepam,145,19
+divalproex sodium,201,19
+bupropion,90,19
+oxcarbazepine,427,19
+risperidone,499,19
+sertraline,508,19
+aripiprazole,46,19
+topiramate,554,19
+olanzapine,415,19
+venlafaxine,577,19
+lamotrigine,329,19
+lithium,347,19
+quetiapine,485,19
+gabapentin,264,19
+clonazepam,145,19
+divalproex sodium,201,19
+bupropion,90,19
+oxcarbazepine,427,19
+risperidone,499,19
+sertraline,508,19
+aripiprazole,46,19
+topiramate,554,19
+olanzapine,415,19
+venlafaxine,577,19
+lamotrigine,329,19
+lithium,347,19
+quetiapine,485,19
+gabapentin,264,19
+clonazepam,145,19
+divalproex sodium,201,19
+bupropion,90,19
+oxcarbazepine,427,19
+risperidone,499,19
+sertraline,508,19
+aripiprazole,46,19
+topiramate,554,19
+olanzapine,415,19
+venlafaxine,577,19
+lamotrigine,329,19
+lithium,347,19
+quetiapine,485,19
+gabapentin,264,19
+clonazepam,145,19
+divalproex sodium,201,19
+bupropion,90,19
+oxcarbazepine,427,19
+risperidone,499,19
+sertraline,508,19
+aripiprazole,46,19
+topiramate,554,19
+olanzapine,415,19
+venlafaxine,577,19
+lamotrigine,329,19
+lithium,347,19
+quetiapine,485,19
+gabapentin,264,19
+clonazepam,145,19
+divalproex sodium,201,19
+bupropion,90,19
+oxcarbazepine,427,19
+risperidone,499,19
+sertraline,508,19
+aripiprazole,46,19
+topiramate,554,19
+olanzapine,415,19
+venlafaxine,577,19
+lamotrigine,329,19
+lithium,347,19
+quetiapine,485,19
+gabapentin,264,19
+clonazepam,145,19
+divalproex sodium,201,19
+bupropion,90,19
+oxcarbazepine,427,19
+risperidone,499,19
+sertraline,508,19
+aripiprazole,46,19
+topiramate,554,19
+olanzapine,415,19
+venlafaxine,577,19
+colchicine,152,4
+colchicine,152,4
+colchicine,152,4
+methotrexate,372,165
+prednisone,472,165
+cyclophosphamide,161,165
+methotrexate,372,165
+prednisone,472,165
+cyclophosphamide,161,165
+methotrexate,372,165
+prednisone,472,165
+cyclophosphamide,161,165
+methotrexate,372,165
+prednisone,472,165
+cyclophosphamide,161,165
+methotrexate,372,165
+prednisone,472,165
+cyclophosphamide,161,165
+methotrexate,372,165
+prednisone,472,165
+cyclophosphamide,161,165
+pyridostigmine,481,119
+azathioprine,61,119
+mycophenolate mofetil,394,119
+neostigmine,404,119
+immune globulin intravenous,300,119
+ephedrine,221,119
+eculizumab,213,119
+glucagon,270,88
+diazoxide,189,88
+glucagon,270,88
+diazoxide,189,88
+ibuprofen,293,143
+acetaminophen,2,143
+prednisone,472,138
+dapsone,170,138
+niacinamide,405,138
+azathioprine,61,138
+prednisolone,470,138
+rituximab,500,138
+methotrexate,372,138
+mycophenolate mofetil,394,138
+dexamethasone,184,138
+doxycycline,208,138
+cyclophosphamide,161,138
+tetracycline,546,138
+cyclosporine,162,138
+minocycline,384,138
+omeprazole,418,79
+ranitidine,490,79
+lansoprazole,332,79
+famotidine,242,79
+aluminum hydroxide / magnesium hydroxide / simethicone,23,79
+aluminum hydroxide / magnesium trisilicate,24,79
+omeprazole,418,79
+ranitidine,490,79
+lansoprazole,332,79
+famotidine,242,79
+aluminum hydroxide / magnesium hydroxide / simethicone,23,79
+aluminum hydroxide / magnesium trisilicate,24,79
+colistin sulfate / hydrocortisone / neomycin / thonzonium bromide,153,36
+colistin sulfate / hydrocortisone / neomycin / thonzonium bromide,153,36
+colistin sulfate / hydrocortisone / neomycin / thonzonium bromide,153,36
+colistin sulfate / hydrocortisone / neomycin / thonzonium bromide,153,36
+prednisone,472,148
+ibuprofen,293,148
+mitomycin,387,20
+cisplatin,140,20
+atezolizumab,53,20
+methotrexate,372,20
+doxorubicin,206,20
+thiotepa,548,20
+cyclophosphamide,161,20
+erdafitinib,225,20
+mitomycin,387,20
+cisplatin,140,20
+atezolizumab,53,20
+methotrexate,372,20
+doxorubicin,206,20
+thiotepa,548,20
+cyclophosphamide,161,20
+erdafitinib,225,20
+cyclobenzaprine,159,164
+naproxen,399,164
+diclofenac,191,164
+ibuprofen,293,164
+acetaminophen,2,164
+diclofenac / misoprostol,192,164
+aspirin,50,164
+furosemide,263,84
+calcitonin,96,84
+pamidronate,435,84
+polidocanol,462,196
+sodium tetradecyl sulfate,516,196
+spironolactone,523,81
+eflornithine,215,81
+flutamide,259,81
+leuprolide,339,81
+prednisone,472,108
+dexamethasone,184,108
+doxorubicin,206,108
+methotrexate,372,108
+brentuximab,83,108
+chlorambucil,125,108
+lenalidomide,334,108
+ibrutinib,292,108
+nelarabine,402,108
+bortezomib,81,108
+pralatrexate,468,108
+prednisone,472,108
+dexamethasone,184,108
+doxorubicin,206,108
+methotrexate,372,108
+brentuximab,83,108
+chlorambucil,125,108
+lenalidomide,334,108
+ibrutinib,292,108
+nelarabine,402,108
+bortezomib,81,108
+pralatrexate,468,108
+lactulose,328,77
+rifaximin,495,77
+neomycin,403,77
+allopurinol,15,100
+amphotericin b,38,100
+amphotericin b liposomal,40,100
+pentamidine,450,100
+miltefosine,383,100
+amphotericin b lipid complex,39,100
+allopurinol,15,100
+amphotericin b,38,100
+amphotericin b liposomal,40,100
+pentamidine,450,100
+miltefosine,383,100
+amphotericin b lipid complex,39,100
+gabapentin,264,178
+tramadol,557,178
+pregabalin,473,178
+gabapentin,264,178
+tramadol,557,178
+pregabalin,473,178
+mycophenolate mofetil,394,156
+infliximab,303,156
+mycophenolate mofetil,394,156
+infliximab,303,156
+mycophenolate mofetil,394,156
+infliximab,303,156
+mycophenolate mofetil,394,156
+infliximab,303,156
+allopurinol,15,69
+febuxostat,243,69
+probenecid,475,69
+pegloticase,446,69
+allopurinol / lesinurad,16,69
+lesinurad,336,69
+rilonacept,496,69
+amoxicillin,34,131
+cefdinir,115,131
+amoxicillin / clavulanate,35,131
+azithromycin,63,131
+cephalexin,123,131
+ofloxacin,414,131
+clarithromycin,142,131
+sulfamethoxazole / trimethoprim,531,131
+cefuroxime,121,131
+hydrocortisone / neomycin / polymyxin b,282,131
+levofloxacin,342,131
+ciprofloxacin / dexamethasone,139,131
+erythromycin,229,131
+amoxicillin,34,131
+cefdinir,115,131
+amoxicillin / clavulanate,35,131
+azithromycin,63,131
+cephalexin,123,131
+ofloxacin,414,131
+clarithromycin,142,131
+sulfamethoxazole / trimethoprim,531,131
+cefuroxime,121,131
+hydrocortisone / neomycin / polymyxin b,282,131
+levofloxacin,342,131
+ciprofloxacin / dexamethasone,139,131
+erythromycin,229,131
+amoxicillin,34,131
+cefdinir,115,131
+amoxicillin / clavulanate,35,131
+azithromycin,63,131
+cephalexin,123,131
+ofloxacin,414,131
+clarithromycin,142,131
+sulfamethoxazole / trimethoprim,531,131
+cefuroxime,121,131
+hydrocortisone / neomycin / polymyxin b,282,131
+levofloxacin,342,131
+ciprofloxacin / dexamethasone,139,131
+erythromycin,229,131
+amoxicillin,34,131
+cefdinir,115,131
+amoxicillin / clavulanate,35,131
+azithromycin,63,131
+cephalexin,123,131
+ofloxacin,414,131
+clarithromycin,142,131
+sulfamethoxazole / trimethoprim,531,131
+cefuroxime,121,131
+hydrocortisone / neomycin / polymyxin b,282,131
+levofloxacin,342,131
+ciprofloxacin / dexamethasone,139,131
+erythromycin,229,131
+amoxicillin,34,131
+cefdinir,115,131
+amoxicillin / clavulanate,35,131
+azithromycin,63,131
+cephalexin,123,131
+ofloxacin,414,131
+clarithromycin,142,131
+sulfamethoxazole / trimethoprim,531,131
+cefuroxime,121,131
+hydrocortisone / neomycin / polymyxin b,282,131
+levofloxacin,342,131
+ciprofloxacin / dexamethasone,139,131
+erythromycin,229,131
+filgrastim,248,120
+azacitidine,60,120
+decitabine,174,120
+filgrastim,248,120
+azacitidine,60,120
+decitabine,174,120
+ranitidine,490,65
+omeprazole / sodium bicarbonate,419,65
+vasopressin,576,65
+aluminum hydroxide,22,65
+ketoconazole,326,167
+clobetasol,144,167
+ciclopirox,136,167
+hydrocortisone,280,167
+selenium sulfide,507,167
+prednisone,472,167
+fluocinolone,255,167
+pyrithione zinc,484,167
+sulfacetamide sodium,528,167
+dexamethasone,184,167
+sulfacetamide sodium / sulfur,529,167
+coal tar,151,167
+ascorbic acid,49,166
+modafinil,388,121
+methylphenidate,374,121
+dextroamphetamine,187,121
+amphetamine / dextroamphetamine,37,121
+armodafinil,47,121
+amphetamine,36,121
+desvenlafaxine,183,121
+sodium oxybate,514,121
+ephedrine,221,121
+lisdexamfetamine,345,121
+solriamfetol,518,121
+modafinil,388,121
+methylphenidate,374,121
+dextroamphetamine,187,121
+amphetamine / dextroamphetamine,37,121
+armodafinil,47,121
+amphetamine,36,121
+desvenlafaxine,183,121
+sodium oxybate,514,121
+ephedrine,221,121
+lisdexamfetamine,345,121
+solriamfetol,518,121
+modafinil,388,121
+methylphenidate,374,121
+dextroamphetamine,187,121
+amphetamine / dextroamphetamine,37,121
+armodafinil,47,121
+amphetamine,36,121
+desvenlafaxine,183,121
+sodium oxybate,514,121
+ephedrine,221,121
+lisdexamfetamine,345,121
+solriamfetol,518,121
+clonazepam,145,8
+alprazolam,18,8
+lorazepam,349,8
+buspirone,92,8
+hydroxyzine,289,8
+diazepam,188,8
+escitalopram,230,8
+gabapentin,264,8
+propranolol,479,8
+trazodone,560,8
+bupropion,90,8
+clonidine,146,8
+venlafaxine,577,8
+duloxetine,210,8
+paroxetine,441,8
+mirtazapine,386,8
+clonazepam,145,8
+alprazolam,18,8
+lorazepam,349,8
+buspirone,92,8
+hydroxyzine,289,8
+diazepam,188,8
+escitalopram,230,8
+gabapentin,264,8
+propranolol,479,8
+trazodone,560,8
+bupropion,90,8
+clonidine,146,8
+venlafaxine,577,8
+duloxetine,210,8
+paroxetine,441,8
+mirtazapine,386,8
+clonazepam,145,8
+alprazolam,18,8
+lorazepam,349,8
+buspirone,92,8
+hydroxyzine,289,8
+diazepam,188,8
+escitalopram,230,8
+gabapentin,264,8
+propranolol,479,8
+trazodone,560,8
+bupropion,90,8
+clonidine,146,8
+venlafaxine,577,8
+duloxetine,210,8
+paroxetine,441,8
+mirtazapine,386,8
+clonazepam,145,8
+alprazolam,18,8
+lorazepam,349,8
+buspirone,92,8
+hydroxyzine,289,8
+diazepam,188,8
+escitalopram,230,8
+gabapentin,264,8
+propranolol,479,8
+trazodone,560,8
+bupropion,90,8
+clonidine,146,8
+venlafaxine,577,8
+duloxetine,210,8
+paroxetine,441,8
+mirtazapine,386,8
+prednisone,472,102
+dexamethasone,184,102
+cytarabine,163,102
+dasatinib,173,102
+idarubicin,295,102
+triamcinolone,563,102
+fludarabine,253,102
+prednisone,472,102
+dexamethasone,184,102
+cytarabine,163,102
+dasatinib,173,102
+idarubicin,295,102
+triamcinolone,563,102
+fludarabine,253,102
+meloxicam,362,129
+diclofenac,191,129
+naproxen,399,129
+ibuprofen,293,129
+celecoxib,122,129
+chondroitin / glucosamine,134,129
+diclofenac,191,129
+etodolac,238,129
+prednisone,472,129
+aspirin,50,129
+nabumetone,396,129
+duloxetine,210,129
+meloxicam,362,129
+diclofenac,191,129
+naproxen,399,129
+ibuprofen,293,129
+celecoxib,122,129
+chondroitin / glucosamine,134,129
+diclofenac,191,129
+etodolac,238,129
+prednisone,472,129
+aspirin,50,129
+nabumetone,396,129
+duloxetine,210,129
+meloxicam,362,129
+diclofenac,191,129
+naproxen,399,129
+ibuprofen,293,129
+celecoxib,122,129
+chondroitin / glucosamine,134,129
+diclofenac,191,129
+etodolac,238,129
+prednisone,472,129
+aspirin,50,129
+nabumetone,396,129
+duloxetine,210,129
+meloxicam,362,129
+diclofenac,191,129
+naproxen,399,129
+ibuprofen,293,129
+celecoxib,122,129
+chondroitin / glucosamine,134,129
+diclofenac,191,129
+etodolac,238,129
+prednisone,472,129
+aspirin,50,129
+nabumetone,396,129
+duloxetine,210,129
+meloxicam,362,129
+diclofenac,191,129
+naproxen,399,129
+ibuprofen,293,129
+celecoxib,122,129
+chondroitin / glucosamine,134,129
+diclofenac,191,129
+etodolac,238,129
+prednisone,472,129
+aspirin,50,129
+nabumetone,396,129
+duloxetine,210,129
+meloxicam,362,129
+diclofenac,191,129
+naproxen,399,129
+ibuprofen,293,129
+celecoxib,122,129
+chondroitin / glucosamine,134,129
+diclofenac,191,129
+etodolac,238,129
+prednisone,472,129
+aspirin,50,129
+nabumetone,396,129
+duloxetine,210,129
+meloxicam,362,129
+diclofenac,191,129
+naproxen,399,129
+ibuprofen,293,129
+celecoxib,122,129
+chondroitin / glucosamine,134,129
+diclofenac,191,129
+etodolac,238,129
+prednisone,472,129
+aspirin,50,129
+nabumetone,396,129
+duloxetine,210,129
+meloxicam,362,129
+diclofenac,191,129
+naproxen,399,129
+ibuprofen,293,129
+celecoxib,122,129
+chondroitin / glucosamine,134,129
+diclofenac,191,129
+etodolac,238,129
+prednisone,472,129
+aspirin,50,129
+nabumetone,396,129
+duloxetine,210,129
+meloxicam,362,129
+diclofenac,191,129
+naproxen,399,129
+ibuprofen,293,129
+celecoxib,122,129
+chondroitin / glucosamine,134,129
+diclofenac,191,129
+etodolac,238,129
+prednisone,472,129
+aspirin,50,129
+nabumetone,396,129
+duloxetine,210,129
+meloxicam,362,129
+diclofenac,191,129
+naproxen,399,129
+ibuprofen,293,129
+celecoxib,122,129
+chondroitin / glucosamine,134,129
+diclofenac,191,129
+etodolac,238,129
+prednisone,472,129
+aspirin,50,129
+nabumetone,396,129
+duloxetine,210,129
+meloxicam,362,129
+diclofenac,191,129
+naproxen,399,129
+ibuprofen,293,129
+celecoxib,122,129
+chondroitin / glucosamine,134,129
+diclofenac,191,129
+etodolac,238,129
+prednisone,472,129
+aspirin,50,129
+nabumetone,396,129
+duloxetine,210,129
+azithromycin,63,141
+prednisone,472,141
+cephalexin,123,141
+erythromycin,229,141
+clarithromycin,142,141
+ampicillin,41,141
+dicloxacillin,193,141
+calcitriol,97,87
+calcium carbonate,99,87
+calcium gluconate,101,87
+ergocalciferol,226,87
+parathyroid hormone,440,87
+calcifediol,94,87
+calcium chloride,100,87
+calcium lactate,102,87
+"calcium phosphate, tribasic",103,87
+ranibizumab,489,109
+aflibercept,9,109
+bevacizumab,76,109
+verteporfin,579,109
+pegaptanib,444,109
+brolucizumab,87,109
+levofloxacin,342,145
+clarithromycin,142,145
+ceftriaxone,120,145
+azithromycin,63,145
+doxycycline,208,145
+amoxicillin,34,145
+ciprofloxacin,138,145
+clindamycin,143,145
+cefdinir,115,145
+amoxicillin / clavulanate,35,145
+sulfamethoxazole / trimethoprim,531,145
+cefotaxime,116,145
+metronidazole,378,145
+moxifloxacin,391,145
+cefuroxime,121,145
+levofloxacin,342,145
+clarithromycin,142,145
+ceftriaxone,120,145
+azithromycin,63,145
+doxycycline,208,145
+amoxicillin,34,145
+ciprofloxacin,138,145
+clindamycin,143,145
+cefdinir,115,145
+amoxicillin / clavulanate,35,145
+sulfamethoxazole / trimethoprim,531,145
+cefotaxime,116,145
+metronidazole,378,145
+moxifloxacin,391,145
+cefuroxime,121,145
+levofloxacin,342,145
+clarithromycin,142,145
+ceftriaxone,120,145
+azithromycin,63,145
+doxycycline,208,145
+amoxicillin,34,145
+ciprofloxacin,138,145
+clindamycin,143,145
+cefdinir,115,145
+amoxicillin / clavulanate,35,145
+sulfamethoxazole / trimethoprim,531,145
+cefotaxime,116,145
+metronidazole,378,145
+moxifloxacin,391,145
+cefuroxime,121,145
+azithromycin,63,33
+ciprofloxacin,138,33
+erythromycin,229,33
+ceftriaxone,120,33
+doxycycline,208,33
+cisplatin,140,180
+etoposide,239,180
+bleomycin,79,180
+cyclophosphamide,161,180
+dactinomycin,167,180
+ifosfamide,296,180
+vinblastine,580,180
+cisplatin,140,180
+etoposide,239,180
+bleomycin,79,180
+cyclophosphamide,161,180
+dactinomycin,167,180
+ifosfamide,296,180
+vinblastine,580,180
+cisplatin,140,180
+etoposide,239,180
+bleomycin,79,180
+cyclophosphamide,161,180
+dactinomycin,167,180
+ifosfamide,296,180
+vinblastine,580,180
+cisplatin,140,180
+etoposide,239,180
+bleomycin,79,180
+cyclophosphamide,161,180
+dactinomycin,167,180
+ifosfamide,296,180
+vinblastine,580,180
+cisplatin,140,180
+etoposide,239,180
+bleomycin,79,180
+cyclophosphamide,161,180
+dactinomycin,167,180
+ifosfamide,296,180
+vinblastine,580,180
+acetazolamide,4,83
+tamoxifen,538,24
+anastrozole,42,24
+letrozole,337,24
+exemestane,241,24
+cyclophosphamide,161,24
+methotrexate,372,24
+doxorubicin,206,24
+paclitaxel,431,24
+trastuzumab,559,24
+capecitabine,104,24
+everolimus,240,24
+tamoxifen,538,24
+anastrozole,42,24
+letrozole,337,24
+exemestane,241,24
+cyclophosphamide,161,24
+methotrexate,372,24
+doxorubicin,206,24
+paclitaxel,431,24
+trastuzumab,559,24
+capecitabine,104,24
+everolimus,240,24
+tamoxifen,538,24
+anastrozole,42,24
+letrozole,337,24
+exemestane,241,24
+cyclophosphamide,161,24
+methotrexate,372,24
+doxorubicin,206,24
+paclitaxel,431,24
+trastuzumab,559,24
+capecitabine,104,24
+everolimus,240,24
+tamoxifen,538,24
+anastrozole,42,24
+letrozole,337,24
+exemestane,241,24
+cyclophosphamide,161,24
+methotrexate,372,24
+doxorubicin,206,24
+paclitaxel,431,24
+trastuzumab,559,24
+capecitabine,104,24
+everolimus,240,24
+tamoxifen,538,24
+anastrozole,42,24
+letrozole,337,24
+exemestane,241,24
+cyclophosphamide,161,24
+methotrexate,372,24
+doxorubicin,206,24
+paclitaxel,431,24
+trastuzumab,559,24
+capecitabine,104,24
+everolimus,240,24
+tamoxifen,538,24
+anastrozole,42,24
+letrozole,337,24
+exemestane,241,24
+cyclophosphamide,161,24
+methotrexate,372,24
+doxorubicin,206,24
+paclitaxel,431,24
+trastuzumab,559,24
+capecitabine,104,24
+everolimus,240,24
+tamoxifen,538,24
+anastrozole,42,24
+letrozole,337,24
+exemestane,241,24
+cyclophosphamide,161,24
+methotrexate,372,24
+doxorubicin,206,24
+paclitaxel,431,24
+trastuzumab,559,24
+capecitabine,104,24
+everolimus,240,24
+ethanolamine oleate,234,62
+megestrol,361,57
+medroxyprogesterone,359,57
+anastrozole,42,57
+cyclophosphamide,161,57
+pembrolizumab,447,57
+lenvatinib,335,57
+megestrol,361,57
+medroxyprogesterone,359,57
+anastrozole,42,57
+cyclophosphamide,161,57
+pembrolizumab,447,57
+lenvatinib,335,57
+megestrol,361,57
+medroxyprogesterone,359,57
+anastrozole,42,57
+cyclophosphamide,161,57
+pembrolizumab,447,57
+lenvatinib,335,57
+megestrol,361,57
+medroxyprogesterone,359,57
+anastrozole,42,57
+cyclophosphamide,161,57
+pembrolizumab,447,57
+lenvatinib,335,57
+megestrol,361,57
+medroxyprogesterone,359,57
+anastrozole,42,57
+cyclophosphamide,161,57
+pembrolizumab,447,57
+lenvatinib,335,57
+megestrol,361,57
+medroxyprogesterone,359,57
+anastrozole,42,57
+cyclophosphamide,161,57
+pembrolizumab,447,57
+lenvatinib,335,57
+megestrol,361,57
+medroxyprogesterone,359,57
+anastrozole,42,57
+cyclophosphamide,161,57
+pembrolizumab,447,57
+lenvatinib,335,57
+megestrol,361,57
+medroxyprogesterone,359,57
+anastrozole,42,57
+cyclophosphamide,161,57
+pembrolizumab,447,57
+lenvatinib,335,57
+azithromycin,63,42
+tobramycin,552,42
+dornase alfa,205,42
+pancrelipase,437,42
+vitamin e,583,42
+ivacaftor,323,42
+amikacin,27,42
+aztreonam,64,42
+gentamicin,267,42
+ivacaftor / lumacaftor,324,42
+cyclobenzaprine,159,179
+diazepam,188,179
+baclofen,68,179
+ibuprofen,293,179
+clonazepam,145,179
+piroxicam,461,179
+cyclobenzaprine,159,179
+diazepam,188,179
+baclofen,68,179
+ibuprofen,293,179
+clonazepam,145,179
+piroxicam,461,179
+cyclobenzaprine,159,179
+diazepam,188,179
+baclofen,68,179
+ibuprofen,293,179
+clonazepam,145,179
+piroxicam,461,179
+cyclobenzaprine,159,179
+diazepam,188,179
+baclofen,68,179
+ibuprofen,293,179
+clonazepam,145,179
+piroxicam,461,179
+cyclobenzaprine,159,179
+diazepam,188,179
+baclofen,68,179
+ibuprofen,293,179
+clonazepam,145,179
+piroxicam,461,179
+cyclobenzaprine,159,179
+diazepam,188,179
+baclofen,68,179
+ibuprofen,293,179
+clonazepam,145,179
+piroxicam,461,179
+vitamin a,581,197
+beta-carotene,73,197
+methotrexate,372,54
+methotrexate,372,54
+gabapentin,264,28
+triamcinolone,563,28
+risperidone,499,18
+aripiprazole,46,18
+venlafaxine,577,18
+ziprasidone,589,18
+memantine,364,18
+paliperidone,434,18
+bumetanide,89,18
+risperidone,499,18
+aripiprazole,46,18
+venlafaxine,577,18
+ziprasidone,589,18
+memantine,364,18
+paliperidone,434,18
+bumetanide,89,18
+risperidone,499,18
+aripiprazole,46,18
+venlafaxine,577,18
+ziprasidone,589,18
+memantine,364,18
+paliperidone,434,18
+bumetanide,89,18
+filgrastim,248,10
+sargramostim,506,10
+"lymphocyte immune globulin, anti-thy (equine)",354,10
+eltrombopag,217,10
+dexamethasone,184,75
+triamcinolone,563,75
+cortisone,156,75
+metoclopramide,376,66
+metoclopramide,376,66
+hydroxyurea,288,147
+ruxolitinib,504,147
+prednisone,472,182
+dexamethasone,184,182
+eltrombopag,217,182
+imiglucerase,298,182
+avatrombopag,59,182
+lusutrombopag,353,182
+cetuximab,124,71
+methotrexate,372,71
+nivolumab,409,71
+pembrolizumab,447,71
+docetaxel,202,71
+cetuximab,124,71
+methotrexate,372,71
+nivolumab,409,71
+pembrolizumab,447,71
+docetaxel,202,71
+calcium lactate,102,152
+"calcium phosphate, tribasic",103,152
+corticotropin,155,128
+gabapentin,264,2
+baclofen,68,2
+chlordiazepoxide,127,2
+diazepam,188,2
+clonidine,146,2
+atenolol,52,2
+oxazepam,426,2
+clorazepate,148,2
+gabapentin,264,2
+baclofen,68,2
+chlordiazepoxide,127,2
+diazepam,188,2
+clonidine,146,2
+atenolol,52,2
+oxazepam,426,2
+clorazepate,148,2
+gabapentin,264,2
+baclofen,68,2
+chlordiazepoxide,127,2
+diazepam,188,2
+clonidine,146,2
+atenolol,52,2
+oxazepam,426,2
+clorazepate,148,2
+gabapentin,264,2
+baclofen,68,2
+chlordiazepoxide,127,2
+diazepam,188,2
+clonidine,146,2
+atenolol,52,2
+oxazepam,426,2
+clorazepate,148,2
+danazol,169,63
+ampicillin,41,101
+penicillin g potassium,448,101
+penicillin g sodium,449,101
+incobotulinumtoxinA,301,23
+onabotulinumtoxinA,420,23
+prednisone,472,161
+azathioprine,61,161
+corticotropin,155,161
+chloroquine,130,161
+dexamethasone,184,161
+infliximab,303,161
+triamcinolone,563,161
+colchicine,152,161
+adalimumab,7,161
+cortisone,156,161
+deferasirox,175,74
+deferasirox,175,74
+ciprofloxacin,138,190
+ceftriaxone,120,190
+azithromycin,63,190
+ampicillin,41,190
+mebendazole,358,186
+albendazole,10,186
+diltiazem,198,16
+flecainide,250,16
+sotalol,521,16
+propafenone,478,16
+dronedarone,209,16
+esmolol,231,16
+ibutilide,294,16
+potassium chloride,466,89
+spironolactone,523,89
+potassium gluconate,467,89
+potassium bicarbonate,464,89
+potassium bicarbonate / potassium chloride,465,89
+potassium chloride,466,89
+spironolactone,523,89
+potassium gluconate,467,89
+potassium bicarbonate,464,89
+potassium bicarbonate / potassium chloride,465,89
+clobetasol,144,154
+methotrexate,372,154
+triamcinolone,563,154
+fluocinonide,256,154
+triamcinolone,563,154
+calcipotriene,95,154
+mometasone,389,154
+desonide,181,154
+prednisone,472,154
+acitretin,5,154
+cyclosporine,162,154
+hydrocortisone,280,154
+ustekinumab,571,154
+adalimumab,7,154
+betamethasone / calcipotriene,75,154
+clobetasol,144,154
+methotrexate,372,154
+triamcinolone,563,154
+fluocinonide,256,154
+triamcinolone,563,154
+calcipotriene,95,154
+mometasone,389,154
+desonide,181,154
+prednisone,472,154
+acitretin,5,154
+cyclosporine,162,154
+hydrocortisone,280,154
+ustekinumab,571,154
+adalimumab,7,154
+betamethasone / calcipotriene,75,154
+clobetasol,144,154
+methotrexate,372,154
+triamcinolone,563,154
+fluocinonide,256,154
+triamcinolone,563,154
+calcipotriene,95,154
+mometasone,389,154
+desonide,181,154
+prednisone,472,154
+acitretin,5,154
+cyclosporine,162,154
+hydrocortisone,280,154
+ustekinumab,571,154
+adalimumab,7,154
+betamethasone / calcipotriene,75,154
+clobetasol,144,154
+methotrexate,372,154
+triamcinolone,563,154
+fluocinonide,256,154
+triamcinolone,563,154
+calcipotriene,95,154
+mometasone,389,154
+desonide,181,154
+prednisone,472,154
+acitretin,5,154
+cyclosporine,162,154
+hydrocortisone,280,154
+ustekinumab,571,154
+adalimumab,7,154
+betamethasone / calcipotriene,75,154
+clobetasol,144,154
+methotrexate,372,154
+triamcinolone,563,154
+fluocinonide,256,154
+triamcinolone,563,154
+calcipotriene,95,154
+mometasone,389,154
+desonide,181,154
+prednisone,472,154
+acitretin,5,154
+cyclosporine,162,154
+hydrocortisone,280,154
+ustekinumab,571,154
+adalimumab,7,154
+betamethasone / calcipotriene,75,154
+clobetasol,144,154
+methotrexate,372,154
+triamcinolone,563,154
+fluocinonide,256,154
+triamcinolone,563,154
+calcipotriene,95,154
+mometasone,389,154
+desonide,181,154
+prednisone,472,154
+acitretin,5,154
+cyclosporine,162,154
+hydrocortisone,280,154
+ustekinumab,571,154
+adalimumab,7,154
+betamethasone / calcipotriene,75,154
+azithromycin,63,32
+doxycycline,208,32
+ofloxacin,414,32
+alendronate,14,130
+calcium / vitamin d,98,130
+calcium carbonate,99,130
+risedronate,498,130
+denosumab,178,130
+ibandronate,291,130
+hydrochlorothiazide,279,130
+raloxifene,487,130
+calcitonin,96,130
+estradiol,232,130
+teriparatide,545,130
+zoledronic acid,590,130
+alendronate,14,130
+calcium / vitamin d,98,130
+calcium carbonate,99,130
+risedronate,498,130
+denosumab,178,130
+ibandronate,291,130
+hydrochlorothiazide,279,130
+raloxifene,487,130
+calcitonin,96,130
+estradiol,232,130
+teriparatide,545,130
+zoledronic acid,590,130
+ciprofloxacin,138,151
+doxycycline,208,151
+oxybutynin,428,151
+levofloxacin,342,151
+sulfamethoxazole / trimethoprim,531,151
+cephalexin,123,151
+moxifloxacin,391,151
+ofloxacin,414,151
+ciprofloxacin,138,151
+doxycycline,208,151
+oxybutynin,428,151
+levofloxacin,342,151
+sulfamethoxazole / trimethoprim,531,151
+cephalexin,123,151
+moxifloxacin,391,151
+ofloxacin,414,151
+ciprofloxacin,138,151
+doxycycline,208,151
+oxybutynin,428,151
+levofloxacin,342,151
+sulfamethoxazole / trimethoprim,531,151
+cephalexin,123,151
+moxifloxacin,391,151
+ofloxacin,414,151
+ciprofloxacin,138,151
+doxycycline,208,151
+oxybutynin,428,151
+levofloxacin,342,151
+sulfamethoxazole / trimethoprim,531,151
+cephalexin,123,151
+moxifloxacin,391,151
+ofloxacin,414,151
+ciprofloxacin,138,151
+doxycycline,208,151
+oxybutynin,428,151
+levofloxacin,342,151
+sulfamethoxazole / trimethoprim,531,151
+cephalexin,123,151
+moxifloxacin,391,151
+ofloxacin,414,151
+ciprofloxacin,138,151
+doxycycline,208,151
+oxybutynin,428,151
+levofloxacin,342,151
+sulfamethoxazole / trimethoprim,531,151
+cephalexin,123,151
+moxifloxacin,391,151
+ofloxacin,414,151
+cholecalciferol,132,199
+ergocalciferol,226,199
+haloperidol,275,43
+ergoloid mesylates,227,43
+haloperidol,275,43
+ergoloid mesylates,227,43
+megestrol,361,58
+fluconazole,251,21
+itraconazole,322,21
+ketoconazole,326,21
+voriconazole,587,21
+amphotericin b,38,21
+amphotericin b lipid complex,39,21
+carboplatin,110,132
+paclitaxel,431,132
+doxorubicin liposomal,207,132
+olaparib,416,132
+doxorubicin,206,132
+gemcitabine,266,132
+cisplatin,140,132
+methotrexate,372,132
+topotecan,555,132
+bevacizumab,76,132
+melphalan,363,132
+carboplatin,110,132
+paclitaxel,431,132
+doxorubicin liposomal,207,132
+olaparib,416,132
+doxorubicin,206,132
+gemcitabine,266,132
+cisplatin,140,132
+methotrexate,372,132
+topotecan,555,132
+bevacizumab,76,132
+melphalan,363,132
+carboplatin,110,132
+paclitaxel,431,132
+doxorubicin liposomal,207,132
+olaparib,416,132
+doxorubicin,206,132
+gemcitabine,266,132
+cisplatin,140,132
+methotrexate,372,132
+topotecan,555,132
+bevacizumab,76,132
+melphalan,363,132
+itraconazole,322,175
+fluconazole,251,175
+amphotericin b,38,175
+bevacizumab,76,123
+bevacizumab,76,123
+bevacizumab,76,123
+bevacizumab,76,123
+bevacizumab,76,123
+bevacizumab,76,123
+bevacizumab,76,123
+bevacizumab,76,123
+bevacizumab,76,123
+gemcitabine,266,133
+fluorouracil,257,133
+capecitabine,104,133
+everolimus,240,133
+paclitaxel protein-bound,432,133
+pancreatin,436,133
+methotrexate,372,133
+irinotecan liposomal,316,133
+erlotinib,228,133
+bevacizumab,76,133
+sunitinib,535,133
+mitomycin,387,133
+streptozocin,526,133
+cetuximab,124,133
+olaparib,416,133
+gemcitabine,266,133
+fluorouracil,257,133
+capecitabine,104,133
+everolimus,240,133
+paclitaxel protein-bound,432,133
+pancreatin,436,133
+methotrexate,372,133
+irinotecan liposomal,316,133
+erlotinib,228,133
+bevacizumab,76,133
+sunitinib,535,133
+mitomycin,387,133
+streptozocin,526,133
+cetuximab,124,133
+olaparib,416,133
+gemcitabine,266,133
+fluorouracil,257,133
+capecitabine,104,133
+everolimus,240,133
+paclitaxel protein-bound,432,133
+pancreatin,436,133
+methotrexate,372,133
+irinotecan liposomal,316,133
+erlotinib,228,133
+bevacizumab,76,133
+sunitinib,535,133
+mitomycin,387,133
+streptozocin,526,133
+cetuximab,124,133
+olaparib,416,133
+gemcitabine,266,133
+fluorouracil,257,133
+capecitabine,104,133
+everolimus,240,133
+paclitaxel protein-bound,432,133
+pancreatin,436,133
+methotrexate,372,133
+irinotecan liposomal,316,133
+erlotinib,228,133
+bevacizumab,76,133
+sunitinib,535,133
+mitomycin,387,133
+streptozocin,526,133
+cetuximab,124,133
+olaparib,416,133
+dexamethasone,184,40
+sildenafil,509,61
+tadalafil,536,61
+vardenafil,575,61
+alprostadil,19,61
+avanafil,58,61
+sildenafil,509,61
+tadalafil,536,61
+vardenafil,575,61
+alprostadil,19,61
+avanafil,58,61
+sildenafil,509,61
+tadalafil,536,61
+vardenafil,575,61
+alprostadil,19,61
+avanafil,58,61
+sildenafil,509,61
+tadalafil,536,61
+vardenafil,575,61
+alprostadil,19,61
+avanafil,58,61
+sildenafil,509,61
+tadalafil,536,61
+vardenafil,575,61
+alprostadil,19,61
+avanafil,58,61
+undecylenic acid,568,127
+undecylenic acid,568,127
+undecylenic acid,568,127
+undecylenic acid,568,127
+undecylenic acid,568,127
+doxycycline,208,106
+cefuroxime,121,106
+ceftriaxone,120,106
+erythromycin,229,106
+cefotaxime,116,106
+doxycycline,208,106
+cefuroxime,121,106
+ceftriaxone,120,106
+erythromycin,229,106
+cefotaxime,116,106
+ferrous sulfate,246,96
+ferrous gluconate,245,96
+ferrous fumarate,244,96
+iron polysaccharide,317,96
+ferumoxytol,247,96
+iron sucrose,318,96
+ferrous sulfate,246,96
+ferrous gluconate,245,96
+ferrous fumarate,244,96
+iron polysaccharide,317,96
+ferumoxytol,247,96
+iron sucrose,318,96
+ferrous sulfate,246,96
+ferrous gluconate,245,96
+ferrous fumarate,244,96
+iron polysaccharide,317,96
+ferumoxytol,247,96
+iron sucrose,318,96
+ferrous sulfate,246,96
+ferrous gluconate,245,96
+ferrous fumarate,244,96
+iron polysaccharide,317,96
+ferumoxytol,247,96
+iron sucrose,318,96
+epoetin alfa,223,5
+multivitamin with iron,392,5
+pyridoxine,482,5
+oxymetholone,429,5
+lenalidomide,334,5
+flecainide,250,136
+flecainide,250,136
+doxycycline,208,0
+spironolactone,523,0
+minocycline,384,0
+clindamycin,143,0
+tretinoin,562,0
+isotretinoin,321,0
+benzoyl peroxide,71,0
+adapalene,8,0
+tetracycline,546,0
+cephalexin,123,0
+sulfamethoxazole / trimethoprim,531,0
+doxycycline,208,0
+spironolactone,523,0
+minocycline,384,0
+clindamycin,143,0
+tretinoin,562,0
+isotretinoin,321,0
+benzoyl peroxide,71,0
+adapalene,8,0
+tetracycline,546,0
+cephalexin,123,0
+sulfamethoxazole / trimethoprim,531,0
+doxycycline,208,0
+spironolactone,523,0
+minocycline,384,0
+clindamycin,143,0
+tretinoin,562,0
+isotretinoin,321,0
+benzoyl peroxide,71,0
+adapalene,8,0
+tetracycline,546,0
+cephalexin,123,0
+sulfamethoxazole / trimethoprim,531,0
+doxycycline,208,0
+spironolactone,523,0
+minocycline,384,0
+clindamycin,143,0
+tretinoin,562,0
+isotretinoin,321,0
+benzoyl peroxide,71,0
+adapalene,8,0
+tetracycline,546,0
+cephalexin,123,0
+sulfamethoxazole / trimethoprim,531,0
+doxycycline,208,0
+spironolactone,523,0
+minocycline,384,0
+clindamycin,143,0
+tretinoin,562,0
+isotretinoin,321,0
+benzoyl peroxide,71,0
+adapalene,8,0
+tetracycline,546,0
+cephalexin,123,0
+sulfamethoxazole / trimethoprim,531,0
+doxycycline,208,0
+spironolactone,523,0
+minocycline,384,0
+clindamycin,143,0
+tretinoin,562,0
+isotretinoin,321,0
+benzoyl peroxide,71,0
+adapalene,8,0
+tetracycline,546,0
+cephalexin,123,0
+sulfamethoxazole / trimethoprim,531,0
+doxycycline,208,0
+spironolactone,523,0
+minocycline,384,0
+clindamycin,143,0
+tretinoin,562,0
+isotretinoin,321,0
+benzoyl peroxide,71,0
+adapalene,8,0
+tetracycline,546,0
+cephalexin,123,0
+sulfamethoxazole / trimethoprim,531,0
+doxycycline,208,0
+spironolactone,523,0
+minocycline,384,0
+clindamycin,143,0
+tretinoin,562,0
+isotretinoin,321,0
+benzoyl peroxide,71,0
+adapalene,8,0
+tetracycline,546,0
+cephalexin,123,0
+sulfamethoxazole / trimethoprim,531,0
+bupropion,90,45
+sertraline,508,45
+citalopram,141,45
+fluoxetine,258,45
+escitalopram,230,45
+venlafaxine,577,45
+duloxetine,210,45
+trazodone,560,45
+mirtazapine,386,45
+paroxetine,441,45
+hydrochlorothiazide,279,46
+desmopressin,180,46
+vasopressin,576,46
+hydrochlorothiazide,279,46
+desmopressin,180,46
+vasopressin,576,46
+prednisone,472,95
+corticotropin,155,95
+dexamethasone,184,95
+triamcinolone,563,95
+cortisone,156,95
+dicyclomine,194,97
+hyoscyamine,290,97
+amitriptyline,30,97
+chlordiazepoxide / clidinium,128,97
+atropine / hyoscyamine / phenobarbital / scopolamine,57,97
+cholestyramine,133,97
+escitalopram,230,97
+nortriptyline,411,97
+psyllium,480,97
+venlafaxine,577,97
+dicyclomine,194,97
+hyoscyamine,290,97
+amitriptyline,30,97
+chlordiazepoxide / clidinium,128,97
+atropine / hyoscyamine / phenobarbital / scopolamine,57,97
+cholestyramine,133,97
+escitalopram,230,97
+nortriptyline,411,97
+psyllium,480,97
+venlafaxine,577,97
+dicyclomine,194,97
+hyoscyamine,290,97
+amitriptyline,30,97
+chlordiazepoxide / clidinium,128,97
+atropine / hyoscyamine / phenobarbital / scopolamine,57,97
+cholestyramine,133,97
+escitalopram,230,97
+nortriptyline,411,97
+psyllium,480,97
+venlafaxine,577,97
+sildenafil,509,157
+isosorbide dinitrate,319,157
+tadalafil,536,157
+ambrisentan,26,157
+bosentan,82,157
+treprostinil,561,157
+macitentan,355,157
+epoprostenol,224,157
+iloprost,297,157
+riociguat,497,157
+sildenafil,509,157
+isosorbide dinitrate,319,157
+tadalafil,536,157
+ambrisentan,26,157
+bosentan,82,157
+treprostinil,561,157
+macitentan,355,157
+epoprostenol,224,157
+iloprost,297,157
+riociguat,497,157
+sildenafil,509,157
+isosorbide dinitrate,319,157
+tadalafil,536,157
+ambrisentan,26,157
+bosentan,82,157
+treprostinil,561,157
+macitentan,355,157
+epoprostenol,224,157
+iloprost,297,157
+riociguat,497,157
+pantoprazole,439,52
+cholestyramine,133,52
+acarbose,1,52
+methscopolamine,373,52
+octreotide,413,52
+methotrexate,372,159
+prednisone,472,159
+meloxicam,362,159
+hydroxychloroquine,286,159
+sulfasalazine,532,159
+leflunomide,333,159
+diclofenac,191,159
+naproxen,399,159
+celecoxib,122,159
+acetaminophen / hydrocodone,3,159
+ibuprofen,293,159
+methotrexate,372,159
+prednisone,472,159
+meloxicam,362,159
+hydroxychloroquine,286,159
+sulfasalazine,532,159
+leflunomide,333,159
+diclofenac,191,159
+naproxen,399,159
+celecoxib,122,159
+acetaminophen / hydrocodone,3,159
+ibuprofen,293,159
+methotrexate,372,159
+prednisone,472,159
+meloxicam,362,159
+hydroxychloroquine,286,159
+sulfasalazine,532,159
+leflunomide,333,159
+diclofenac,191,159
+naproxen,399,159
+celecoxib,122,159
+acetaminophen / hydrocodone,3,159
+ibuprofen,293,159
+methotrexate,372,159
+prednisone,472,159
+meloxicam,362,159
+hydroxychloroquine,286,159
+sulfasalazine,532,159
+leflunomide,333,159
+diclofenac,191,159
+naproxen,399,159
+celecoxib,122,159
+acetaminophen / hydrocodone,3,159
+ibuprofen,293,159
+mupirocin,393,92
+cefadroxil,113,92
+cefuroxime,121,92
+retapamulin,493,92
+sulconazole,527,92
+ozenoxacin,430,92
+ammoniated mercury,33,92
+sumatriptan,534,113
+rizatriptan,503,113
+gabapentin,264,113
+aspirin / butalbital / caffeine,51,113
+cyclobenzaprine,159,113
+diclofenac,191,113
+naratriptan,400,113
+almotriptan,17,113
+zolmitriptan,591,113
+eletriptan,216,113
+sumatriptan,534,113
+rizatriptan,503,113
+gabapentin,264,113
+aspirin / butalbital / caffeine,51,113
+cyclobenzaprine,159,113
+diclofenac,191,113
+naratriptan,400,113
+almotriptan,17,113
+zolmitriptan,591,113
+eletriptan,216,113
+sumatriptan,534,113
+rizatriptan,503,113
+gabapentin,264,113
+aspirin / butalbital / caffeine,51,113
+cyclobenzaprine,159,113
+diclofenac,191,113
+naratriptan,400,113
+almotriptan,17,113
+zolmitriptan,591,113
+eletriptan,216,113
+sumatriptan,534,113
+rizatriptan,503,113
+gabapentin,264,113
+aspirin / butalbital / caffeine,51,113
+cyclobenzaprine,159,113
+diclofenac,191,113
+naratriptan,400,113
+almotriptan,17,113
+zolmitriptan,591,113
+eletriptan,216,113
+sumatriptan,534,113
+rizatriptan,503,113
+gabapentin,264,113
+aspirin / butalbital / caffeine,51,113
+cyclobenzaprine,159,113
+diclofenac,191,113
+naratriptan,400,113
+almotriptan,17,113
+zolmitriptan,591,113
+eletriptan,216,113
+sumatriptan,534,113
+rizatriptan,503,113
+gabapentin,264,113
+aspirin / butalbital / caffeine,51,113
+cyclobenzaprine,159,113
+diclofenac,191,113
+naratriptan,400,113
+almotriptan,17,113
+zolmitriptan,591,113
+eletriptan,216,113
+gabapentin,264,48
+pregabalin,473,48
+duloxetine,210,48
+tapentadol,539,48
+topiramate,554,48
+capsaicin,105,48
+nortriptyline,411,48
+carbamazepine,108,48
+mexiletine,379,48
+gabapentin,264,48
+pregabalin,473,48
+duloxetine,210,48
+tapentadol,539,48
+topiramate,554,48
+capsaicin,105,48
+nortriptyline,411,48
+carbamazepine,108,48
+mexiletine,379,48
+gabapentin,264,48
+pregabalin,473,48
+duloxetine,210,48
+tapentadol,539,48
+topiramate,554,48
+capsaicin,105,48
+nortriptyline,411,48
+carbamazepine,108,48
+mexiletine,379,48
+insulin isophane,307,67
+insulin regular,310,67
+insulin isophane / insulin regular,308,67
+adalimumab,7,80
+donepezil,204,103
+rivastigmine,502,103
+donepezil,204,103
+rivastigmine,502,103
+donepezil,204,103
+rivastigmine,502,103
+donepezil,204,103
+rivastigmine,502,103
+dexamethasone,184,117
+thalidomide,547,117
+cyclophosphamide,161,117
+lenalidomide,334,117
+bortezomib,81,117
+carfilzomib,111,117
+pomalidomide,463,117
+daratumumab,172,117
+melphalan,363,117
+dexamethasone,184,117
+thalidomide,547,117
+cyclophosphamide,161,117
+lenalidomide,334,117
+bortezomib,81,117
+carfilzomib,111,117
+pomalidomide,463,117
+daratumumab,172,117
+melphalan,363,117
+dexamethasone,184,117
+thalidomide,547,117
+cyclophosphamide,161,117
+lenalidomide,334,117
+bortezomib,81,117
+carfilzomib,111,117
+pomalidomide,463,117
+daratumumab,172,117
+melphalan,363,117
+dexamethasone,184,117
+thalidomide,547,117
+cyclophosphamide,161,117
+lenalidomide,334,117
+bortezomib,81,117
+carfilzomib,111,117
+pomalidomide,463,117
+daratumumab,172,117
+melphalan,363,117
+dexamethasone,184,117
+thalidomide,547,117
+cyclophosphamide,161,117
+lenalidomide,334,117
+bortezomib,81,117
+carfilzomib,111,117
+pomalidomide,463,117
+daratumumab,172,117
+melphalan,363,117
+dexamethasone,184,117
+thalidomide,547,117
+cyclophosphamide,161,117
+lenalidomide,334,117
+bortezomib,81,117
+carfilzomib,111,117
+pomalidomide,463,117
+daratumumab,172,117
+melphalan,363,117
+dexamethasone,184,117
+thalidomide,547,117
+cyclophosphamide,161,117
+lenalidomide,334,117
+bortezomib,81,117
+carfilzomib,111,117
+pomalidomide,463,117
+daratumumab,172,117
+melphalan,363,117
+dexamethasone,184,117
+thalidomide,547,117
+cyclophosphamide,161,117
+lenalidomide,334,117
+bortezomib,81,117
+carfilzomib,111,117
+pomalidomide,463,117
+daratumumab,172,117
+melphalan,363,117
+dexamethasone,184,117
+thalidomide,547,117
+cyclophosphamide,161,117
+lenalidomide,334,117
+bortezomib,81,117
+carfilzomib,111,117
+pomalidomide,463,117
+daratumumab,172,117
+melphalan,363,117
+dexamethasone,184,117
+thalidomide,547,117
+cyclophosphamide,161,117
+lenalidomide,334,117
+bortezomib,81,117
+carfilzomib,111,117
+pomalidomide,463,117
+daratumumab,172,117
+melphalan,363,117
+amantadine,25,72
+risperidone,499,72
+amantadine,25,72
+risperidone,499,72
+amantadine,25,72
+risperidone,499,72
+amantadine,25,72
+risperidone,499,72
+prednisone,472,94
+prednisone,472,94
+prednisone,472,94
+artemether / lumefantrine,48,110
+mefloquine,360,110
+doxycycline,208,110
+chloroquine,130,110
+hydroxychloroquine,286,110
+atovaquone / proguanil,55,110
+clindamycin,143,110
+primaquine,474,110
+atovaquone,54,110
+hetastarch,277,91
+hydroxyethyl starch,287,91
+risperidone,499,163
+clozapine,150,163
+olanzapine,415,163
+quetiapine,485,163
+aripiprazole,46,163
+chlorpromazine,131,163
+paliperidone,434,163
+ziprasidone,589,163
+loxapine,352,163
+risperidone,499,163
+clozapine,150,163
+olanzapine,415,163
+quetiapine,485,163
+aripiprazole,46,163
+chlorpromazine,131,163
+paliperidone,434,163
+ziprasidone,589,163
+loxapine,352,163
+risperidone,499,163
+clozapine,150,163
+olanzapine,415,163
+quetiapine,485,163
+aripiprazole,46,163
+chlorpromazine,131,163
+paliperidone,434,163
+ziprasidone,589,163
+loxapine,352,163
+risperidone,499,163
+clozapine,150,163
+olanzapine,415,163
+quetiapine,485,163
+aripiprazole,46,163
+chlorpromazine,131,163
+paliperidone,434,163
+ziprasidone,589,163
+loxapine,352,163
+risperidone,499,163
+clozapine,150,163
+olanzapine,415,163
+quetiapine,485,163
+aripiprazole,46,163
+chlorpromazine,131,163
+paliperidone,434,163
+ziprasidone,589,163
+loxapine,352,163
+risperidone,499,163
+clozapine,150,163
+olanzapine,415,163
+quetiapine,485,163
+aripiprazole,46,163
+chlorpromazine,131,163
+paliperidone,434,163
+ziprasidone,589,163
+loxapine,352,163
+risperidone,499,163
+clozapine,150,163
+olanzapine,415,163
+quetiapine,485,163
+aripiprazole,46,163
+chlorpromazine,131,163
+paliperidone,434,163
+ziprasidone,589,163
+loxapine,352,163
+risperidone,499,163
+clozapine,150,163
+olanzapine,415,163
+quetiapine,485,163
+aripiprazole,46,163
+chlorpromazine,131,163
+paliperidone,434,163
+ziprasidone,589,163
+loxapine,352,163
+risperidone,499,163
+clozapine,150,163
+olanzapine,415,163
+quetiapine,485,163
+aripiprazole,46,163
+chlorpromazine,131,163
+paliperidone,434,163
+ziprasidone,589,163
+loxapine,352,163
+risperidone,499,163
+clozapine,150,163
+olanzapine,415,163
+quetiapine,485,163
+aripiprazole,46,163
+chlorpromazine,131,163
+paliperidone,434,163
+ziprasidone,589,163
+loxapine,352,163
+risperidone,499,163
+clozapine,150,163
+olanzapine,415,163
+quetiapine,485,163
+aripiprazole,46,163
+chlorpromazine,131,163
+paliperidone,434,163
+ziprasidone,589,163
+loxapine,352,163
+vancomycin,573,56
+ceftriaxone,120,56
+ampicillin,41,56
+rifampin,494,56
+metronidazole,378,56
+cefazolin,114,56
+ceftazidime,119,56
+daptomycin,171,56
+gentamicin,267,56
+cilastatin / imipenem,137,56
+oxacillin,422,56
+tobramycin,552,56
+streptomycin,525,56
+vancomycin,573,169
+ceftriaxone,120,169
+cefuroxime,121,169
+ceftazidime,119,169
+cefotaxime,116,169
+tobramycin,552,169
+filgrastim,248,169
+cefazolin,114,34
+cefoxitin,118,34
+cefotetan,117,34
+cefazolin,114,34
+cefoxitin,118,34
+cefotetan,117,34
+epinephrine,222,27
+ceftriaxone,120,112
+meropenem,366,112
+vancomycin,573,112
+sulfamethoxazole / trimethoprim,531,112
+metronidazole,378,112
+cefotaxime,116,112
+rifampin,494,112
+chloramphenicol,126,112
+amikacin,27,112
+triamcinolone,563,112
+gentamicin,267,112
+ampicillin,41,112
+ceftazidime,119,112
+cefuroxime,121,112
+cilastatin / imipenem,137,112
+permethrin,451,162
+ivermectin,325,162
+crotamiton,157,162
+lindane,344,162
+carbamide peroxide,109,53
+carbamide peroxide,109,53
+doxycycline,208,160
+metronidazole,378,160
+minocycline,384,160
+azelaic acid,62,160
+sulfacetamide sodium / sulfur,529,160
+isotretinoin,321,160
+ivermectin,325,160
+brimonidine,85,160
+doxycycline,208,160
+metronidazole,378,160
+minocycline,384,160
+azelaic acid,62,160
+sulfacetamide sodium / sulfur,529,160
+isotretinoin,321,160
+ivermectin,325,160
+brimonidine,85,160
+methotrexate,372,194
+cyclopentolate,160,194
+atropine,56,194
+mycophenolate mofetil,394,194
+dexamethasone,184,194
+homatropine,278,194
+azathioprine,61,194
+prednisolone / sulfacetamide sodium,471,194
+difluprednate,196,194
+triamcinolone,563,194
+triamcinolone,563,194
+sulfasalazine,532,194
+dexamethasone / tobramycin,186,194
+dexamethasone / neomycin / polymyxin b,185,194
+dexamethasone / neomycin / polymyxin b,185,22
+bacitracin / polymyxin b,67,22
+prednisolone / sulfacetamide sodium,471,22
+bacitracin / neomycin / polymyxin b,66,22
+hydrocortisone / neomycin / polymyxin b,282,22
+gentamicin / prednisolone,268,22
+infliximab,303,29
+infliximab,303,29
+infliximab,303,29
+infliximab,303,29
+infliximab,303,29
+infliximab,303,29
+infliximab,303,29
+hydrocortisone,280,76
+lidocaine,343,76
+hydrocortisone / pramoxine,283,76
+phenylephrine,455,76
+dibucaine,190,76
+hydrocortisone / lidocaine,281,76
+pramoxine,469,76
+hydrocortisone,280,76
+lidocaine,343,76
+hydrocortisone / pramoxine,283,76
+phenylephrine,455,76
+dibucaine,190,76
+hydrocortisone / lidocaine,281,76
+pramoxine,469,76
+doxycycline,208,137
+metronidazole,378,137
+clindamycin,143,137
+azithromycin,63,137
+ceftriaxone,120,137
+levofloxacin,342,137
+cefotaxime,116,137
+ofloxacin,414,137
+ceftazidime,119,137
+thyroid desiccated,549,183
+sodium iodide-i-131,513,183
+sorafenib,520,183
+lenvatinib,335,183
+doxorubicin,206,183
+cabozantinib,93,183
+thyrotropin alpha,550,183
+vandetanib,574,183
+dabrafenib,165,183
+trametinib,558,183
+thyroid desiccated,549,183
+sodium iodide-i-131,513,183
+sorafenib,520,183
+lenvatinib,335,183
+doxorubicin,206,183
+cabozantinib,93,183
+thyrotropin alpha,550,183
+vandetanib,574,183
+dabrafenib,165,183
+trametinib,558,183
+cisplatin,140,31
+carboplatin,110,31
+methotrexate,372,31
+topotecan,555,31
+bevacizumab,76,31
+fluorouracil,257,31
+ifosfamide,296,31
+cyclophosphamide,161,31
+hydroxyurea,288,31
+pembrolizumab,447,31
+cisplatin,140,31
+carboplatin,110,31
+methotrexate,372,31
+topotecan,555,31
+bevacizumab,76,31
+fluorouracil,257,31
+ifosfamide,296,31
+cyclophosphamide,161,31
+hydroxyurea,288,31
+pembrolizumab,447,31
+oxybutynin,428,173
+oxybutynin,428,173
+metronidazole,378,51
+ciprofloxacin,138,51
+clindamycin,143,51
+sulfamethoxazole / trimethoprim,531,51
+nimodipine,406,177
+lactase,327,99
+piperacillin / tazobactam,459,11
+hydroxyurea,288,181
+deferasirox,175,181
+deferiprone,176,181
+hydroxyurea,288,181
+deferasirox,175,181
+deferiprone,176,181
+hydroxyurea,288,181
+deferasirox,175,181
+deferiprone,176,181
+hydroxyurea,288,181
+deferasirox,175,181
+deferiprone,176,181
+doxycycline,208,144
+sterile talc,524,144
+ciprofloxacin,138,192
+nitrofurantoin,407,192
+sulfamethoxazole / trimethoprim,531,192
+amoxicillin,34,192
+doxycycline,208,192
+levofloxacin,342,192
+ceftriaxone,120,192
+amoxicillin / clavulanate,35,192
+cefuroxime,121,192
+trimethoprim,564,192
+methenamine,371,192
+ampicillin,41,192
+ciprofloxacin,138,192
+nitrofurantoin,407,192
+sulfamethoxazole / trimethoprim,531,192
+amoxicillin,34,192
+doxycycline,208,192
+levofloxacin,342,192
+ceftriaxone,120,192
+amoxicillin / clavulanate,35,192
+cefuroxime,121,192
+trimethoprim,564,192
+methenamine,371,192
+ampicillin,41,192
+ciprofloxacin,138,192
+nitrofurantoin,407,192
+sulfamethoxazole / trimethoprim,531,192
+amoxicillin,34,192
+doxycycline,208,192
+levofloxacin,342,192
+ceftriaxone,120,192
+amoxicillin / clavulanate,35,192
+cefuroxime,121,192
+trimethoprim,564,192
+methenamine,371,192
+ampicillin,41,192
+ciprofloxacin,138,192
+nitrofurantoin,407,192
+sulfamethoxazole / trimethoprim,531,192
+amoxicillin,34,192
+doxycycline,208,192
+levofloxacin,342,192
+ceftriaxone,120,192
+amoxicillin / clavulanate,35,192
+cefuroxime,121,192
+trimethoprim,564,192
+methenamine,371,192
+ampicillin,41,192
+ciprofloxacin,138,192
+nitrofurantoin,407,192
+sulfamethoxazole / trimethoprim,531,192
+amoxicillin,34,192
+doxycycline,208,192
+levofloxacin,342,192
+ceftriaxone,120,192
+amoxicillin / clavulanate,35,192
+cefuroxime,121,192
+trimethoprim,564,192
+methenamine,371,192
+ampicillin,41,192
+ciprofloxacin,138,192
+nitrofurantoin,407,192
+sulfamethoxazole / trimethoprim,531,192
+amoxicillin,34,192
+doxycycline,208,192
+levofloxacin,342,192
+ceftriaxone,120,192
+amoxicillin / clavulanate,35,192
+cefuroxime,121,192
+trimethoprim,564,192
+methenamine,371,192
+ampicillin,41,192
+ciprofloxacin,138,192
+nitrofurantoin,407,192
+sulfamethoxazole / trimethoprim,531,192
+amoxicillin,34,192
+doxycycline,208,192
+levofloxacin,342,192
+ceftriaxone,120,192
+amoxicillin / clavulanate,35,192
+cefuroxime,121,192
+trimethoprim,564,192
+methenamine,371,192
+ampicillin,41,192
+itraconazole,322,82
+fluconazole,251,82
+ketoconazole,326,82
+amphotericin b lipid complex,39,82
+amiodarone,29,12
+verapamil,578,12
+propranolol,479,12
+dofetilide,203,12
+lidocaine,343,12
+mexiletine,379,12
+disopyramide,200,12
+phenytoin,456,12
+quinidine,486,12
+procainamide,476,12
+amiodarone,29,12
+verapamil,578,12
+propranolol,479,12
+dofetilide,203,12
+lidocaine,343,12
+mexiletine,379,12
+disopyramide,200,12
+phenytoin,456,12
+quinidine,486,12
+procainamide,476,12
+amiodarone,29,12
+verapamil,578,12
+propranolol,479,12
+dofetilide,203,12
+lidocaine,343,12
+mexiletine,379,12
+disopyramide,200,12
+phenytoin,456,12
+quinidine,486,12
+procainamide,476,12
+carbamazepine,108,187
+gabapentin,264,187
+baclofen,68,187
+oxcarbazepine,427,187
+topiramate,554,187
+phenytoin,456,187
+carbamazepine,108,187
+gabapentin,264,187
+baclofen,68,187
+oxcarbazepine,427,187
+topiramate,554,187
+phenytoin,456,187
+carbamazepine,108,187
+gabapentin,264,187
+baclofen,68,187
+oxcarbazepine,427,187
+topiramate,554,187
+phenytoin,456,187
+diclofenac,191,7
+prednisone,472,7
+naproxen,399,7
+indomethacin,302,7
+celecoxib,122,7
+adalimumab,7,7
+aspirin,50,7
+etanercept,233,7
+sulindac,533,7
+infliximab,303,7
+nortriptyline,411,125
+nortriptyline,411,125
+nortriptyline,411,125
+bicalutamide,77,150
+leuprolide,339,150
+abiraterone,0,150
+enzalutamide,220,150
+degarelix,177,150
+goserelin,272,150
+docetaxel,202,150
+estradiol,232,150
+flutamide,259,150
+triptorelin,565,150
+bicalutamide,77,150
+leuprolide,339,150
+abiraterone,0,150
+enzalutamide,220,150
+degarelix,177,150
+goserelin,272,150
+docetaxel,202,150
+estradiol,232,150
+flutamide,259,150
+triptorelin,565,150
+bicalutamide,77,150
+leuprolide,339,150
+abiraterone,0,150
+enzalutamide,220,150
+degarelix,177,150
+goserelin,272,150
+docetaxel,202,150
+estradiol,232,150
+flutamide,259,150
+triptorelin,565,150
+dexamethasone,184,30
+mannitol,357,30
+pancrelipase,437,37
+pancreatin,436,37
+lanreotide,331,26
+hydrogen peroxide,284,168
+prednisone,472,118
+glatiramer,269,118
+dalfampridine,168,118
+fingolimod,249,118
+interferon beta-1a,312,118
+dexamethasone,184,118
+dimethyl fumarate,199,118
+natalizumab,401,118
+teriflunomide,544,118
+prednisone,472,118
+glatiramer,269,118
+dalfampridine,168,118
+fingolimod,249,118
+interferon beta-1a,312,118
+dexamethasone,184,118
+dimethyl fumarate,199,118
+natalizumab,401,118
+teriflunomide,544,118
+mesalamine,367,191
+azathioprine,61,191
+sulfasalazine,532,191
+balsalazide,69,191
+budesonide,88,191
+hydrocortisone,280,191
+infliximab,303,191
+clonidine,146,191
+mesalamine,367,191
+azathioprine,61,191
+sulfasalazine,532,191
+balsalazide,69,191
+budesonide,88,191
+hydrocortisone,280,191
+infliximab,303,191
+clonidine,146,191
+aspirin,50,6
+nitroglycerin,408,6
+metoprolol,377,6
+amlodipine,31,6
+isosorbide mononitrate,320,6
+isosorbide dinitrate,319,6
+enoxaparin,219,6
+ranolazine,491,6
+atenolol,52,6
+carvedilol,112,6
+amlodipine / atorvastatin,32,6
+aspirin,50,6
+nitroglycerin,408,6
+metoprolol,377,6
+amlodipine,31,6
+isosorbide mononitrate,320,6
+isosorbide dinitrate,319,6
+enoxaparin,219,6
+ranolazine,491,6
+atenolol,52,6
+carvedilol,112,6
+amlodipine / atorvastatin,32,6
+aspirin,50,6
+nitroglycerin,408,6
+metoprolol,377,6
+amlodipine,31,6
+isosorbide mononitrate,320,6
+isosorbide dinitrate,319,6
+enoxaparin,219,6
+ranolazine,491,6
+atenolol,52,6
+carvedilol,112,6
+amlodipine / atorvastatin,32,6
+aspirin,50,6
+nitroglycerin,408,6
+metoprolol,377,6
+amlodipine,31,6
+isosorbide mononitrate,320,6
+isosorbide dinitrate,319,6
+enoxaparin,219,6
+ranolazine,491,6
+atenolol,52,6
+carvedilol,112,6
+amlodipine / atorvastatin,32,6
+aspirin,50,6
+nitroglycerin,408,6
+metoprolol,377,6
+amlodipine,31,6
+isosorbide mononitrate,320,6
+isosorbide dinitrate,319,6
+enoxaparin,219,6
+ranolazine,491,6
+atenolol,52,6
+carvedilol,112,6
+amlodipine / atorvastatin,32,6
+aspirin,50,6
+nitroglycerin,408,6
+metoprolol,377,6
+amlodipine,31,6
+isosorbide mononitrate,320,6
+isosorbide dinitrate,319,6
+enoxaparin,219,6
+ranolazine,491,6
+atenolol,52,6
+carvedilol,112,6
+amlodipine / atorvastatin,32,6
+aspirin,50,6
+nitroglycerin,408,6
+metoprolol,377,6
+amlodipine,31,6
+isosorbide mononitrate,320,6
+isosorbide dinitrate,319,6
+enoxaparin,219,6
+ranolazine,491,6
+atenolol,52,6
+carvedilol,112,6
+amlodipine / atorvastatin,32,6
+aspirin,50,6
+nitroglycerin,408,6
+metoprolol,377,6
+amlodipine,31,6
+isosorbide mononitrate,320,6
+isosorbide dinitrate,319,6
+enoxaparin,219,6
+ranolazine,491,6
+atenolol,52,6
+carvedilol,112,6
+amlodipine / atorvastatin,32,6
+aspirin,50,6
+nitroglycerin,408,6
+metoprolol,377,6
+amlodipine,31,6
+isosorbide mononitrate,320,6
+isosorbide dinitrate,319,6
+enoxaparin,219,6
+ranolazine,491,6
+atenolol,52,6
+carvedilol,112,6
+amlodipine / atorvastatin,32,6
+aspirin,50,6
+nitroglycerin,408,6
+metoprolol,377,6
+amlodipine,31,6
+isosorbide mononitrate,320,6
+isosorbide dinitrate,319,6
+enoxaparin,219,6
+ranolazine,491,6
+atenolol,52,6
+carvedilol,112,6
+amlodipine / atorvastatin,32,6
+aspirin,50,6
+nitroglycerin,408,6
+metoprolol,377,6
+amlodipine,31,6
+isosorbide mononitrate,320,6
+isosorbide dinitrate,319,6
+enoxaparin,219,6
+ranolazine,491,6
+atenolol,52,6
+carvedilol,112,6
+amlodipine / atorvastatin,32,6
+oxaliplatin,423,38
+fluorouracil,257,38
+leucovorin,338,38
+capecitabine,104,38
+irinotecan,315,38
+bevacizumab,76,38
+cetuximab,124,38
+methotrexate,372,38
+panitumumab,438,38
+regorafenib,492,38
+oxaliplatin,423,38
+fluorouracil,257,38
+leucovorin,338,38
+capecitabine,104,38
+irinotecan,315,38
+bevacizumab,76,38
+cetuximab,124,38
+methotrexate,372,38
+panitumumab,438,38
+regorafenib,492,38
+oxaliplatin,423,38
+fluorouracil,257,38
+leucovorin,338,38
+capecitabine,104,38
+irinotecan,315,38
+bevacizumab,76,38
+cetuximab,124,38
+methotrexate,372,38
+panitumumab,438,38
+regorafenib,492,38
+oxaliplatin,423,38
+fluorouracil,257,38
+leucovorin,338,38
+capecitabine,104,38
+irinotecan,315,38
+bevacizumab,76,38
+cetuximab,124,38
+methotrexate,372,38
+panitumumab,438,38
+regorafenib,492,38
+oxaliplatin,423,38
+fluorouracil,257,38
+leucovorin,338,38
+capecitabine,104,38
+irinotecan,315,38
+bevacizumab,76,38
+cetuximab,124,38
+methotrexate,372,38
+panitumumab,438,38
+regorafenib,492,38
+oxaliplatin,423,38
+fluorouracil,257,38
+leucovorin,338,38
+capecitabine,104,38
+irinotecan,315,38
+bevacizumab,76,38
+cetuximab,124,38
+methotrexate,372,38
+panitumumab,438,38
+regorafenib,492,38
+oxaliplatin,423,38
+fluorouracil,257,38
+leucovorin,338,38
+capecitabine,104,38
+irinotecan,315,38
+bevacizumab,76,38
+cetuximab,124,38
+methotrexate,372,38
+panitumumab,438,38
+regorafenib,492,38
+oxaliplatin,423,38
+fluorouracil,257,38
+leucovorin,338,38
+capecitabine,104,38
+irinotecan,315,38
+bevacizumab,76,38
+cetuximab,124,38
+methotrexate,372,38
+panitumumab,438,38
+regorafenib,492,38
+tazarotene,540,171
+tazarotene,540,171
+erythromycin,229,107
+doxycycline,208,107
+clindamycin,143,184
+sulfadiazine,530,184
+pyrimethamine,483,184
+azithromycin,63,184
+sulfamethoxazole / trimethoprim,531,184
+clarithromycin,142,184
+leucovorin,338,184
+atovaquone,54,184
+sodium bicarbonate,511,47
+insulin regular,310,47
+insulin lispro,309,47
+insulin aspart,305,47
+insulin glulisine,306,47
+sodium bicarbonate,511,47
+insulin regular,310,47
+insulin lispro,309,47
+insulin aspart,305,47
+insulin glulisine,306,47
+azithromycin,63,70
+doxycycline,208,70
+minocycline,384,70
+sulfamethoxazole / trimethoprim,531,70
+ciprofloxacin,138,70
+tolvaptan,553,90
+urea,569,90
+sodium acetate,510,90
+pazopanib,443,172
+doxorubicin,206,172
+methotrexate,372,172
+trabectedin,556,172
+olaratumab,417,172
+pazopanib,443,172
+doxorubicin,206,172
+methotrexate,372,172
+trabectedin,556,172
+olaratumab,417,172
+pazopanib,443,172
+doxorubicin,206,172
+methotrexate,372,172
+trabectedin,556,172
+olaratumab,417,172
+pazopanib,443,172
+doxorubicin,206,172
+methotrexate,372,172
+trabectedin,556,172
+olaratumab,417,172
+pazopanib,443,172
+doxorubicin,206,172
+methotrexate,372,172
+trabectedin,556,172
+olaratumab,417,172
+pazopanib,443,172
+doxorubicin,206,172
+methotrexate,372,172
+trabectedin,556,172
+olaratumab,417,172
+levetiracetam,341,60
+carbamazepine,108,60
+gabapentin,264,60
+lamotrigine,329,60
+divalproex sodium,201,60
+phenytoin,456,60
+valproic acid,572,60
+oxcarbazepine,427,60
+fluorouracil,257,170
+fluorouracil,257,170
+aspirin,50,158
+triamcinolone,563,9
+dexamethasone,184,9
+benzocaine,70,9
+triamcinolone,563,9
+dexamethasone,184,9
+benzocaine,70,9
+triamcinolone,563,9
+dexamethasone,184,9
+benzocaine,70,9
+triamcinolone,563,9
+dexamethasone,184,9
+benzocaine,70,9
+fluorouracil,257,176
+capecitabine,104,176
+doxorubicin,206,176
+mitomycin,387,176
+ramucirumab,488,176
+fluorouracil,257,176
+capecitabine,104,176
+doxorubicin,206,176
+mitomycin,387,176
+ramucirumab,488,176
+fluorouracil,257,176
+capecitabine,104,176
+doxorubicin,206,176
+mitomycin,387,176
+ramucirumab,488,176
+fluorouracil,257,176
+capecitabine,104,176
+doxorubicin,206,176
+mitomycin,387,176
+ramucirumab,488,176
+propranolol,479,73
+propranolol,479,73
+propranolol,479,73
+propranolol,479,73
+propranolol,479,73
+propranolol,479,73
+clopidogrel,147,139
+vorapaxar,586,139
+rivaroxaban,501,139
+clopidogrel,147,139
+vorapaxar,586,139
+rivaroxaban,501,139
+clopidogrel,147,139
+vorapaxar,586,139
+rivaroxaban,501,139
+sulfacetamide sodium,528,39
+dexamethasone,184,39
+diclofenac,191,39
+loteprednol,351,39
+gatifloxacin,265,39
+triamcinolone,563,39
+ceftriaxone,120,39
+lodoxamide,348,39
+cortisone,156,39
+naproxen,399,78
+ibuprofen,293,78
+rivaroxaban,501,155
+apixaban,44,155
+heparin,276,155
+fondaparinux,261,155
+dabigatran,164,155
+alteplase,20,155
+edoxaban,214,155
+urokinase,570,155
+imiquimod,299,114
+interferon alfa-2b,311,111
+nivolumab,409,111
+ipilimumab,313,111
+pembrolizumab,447,111
+dacarbazine,166,111
+aldesleukin,13,111
+temozolomide,541,111
+peginterferon alfa-2b,445,111
+talimogene laherparepvec,537,111
+interferon alfa-2b,311,111
+nivolumab,409,111
+ipilimumab,313,111
+pembrolizumab,447,111
+dacarbazine,166,111
+aldesleukin,13,111
+temozolomide,541,111
+peginterferon alfa-2b,445,111
+talimogene laherparepvec,537,111
+interferon alfa-2b,311,111
+nivolumab,409,111
+ipilimumab,313,111
+pembrolizumab,447,111
+dacarbazine,166,111
+aldesleukin,13,111
+temozolomide,541,111
+peginterferon alfa-2b,445,111
+talimogene laherparepvec,537,111
+interferon alfa-2b,311,111
+nivolumab,409,111
+ipilimumab,313,111
+pembrolizumab,447,111
+dacarbazine,166,111
+aldesleukin,13,111
+temozolomide,541,111
+peginterferon alfa-2b,445,111
+talimogene laherparepvec,537,111
+zinc oxide,588,50
+miconazole / zinc oxide,381,50
+lanolin,330,50
+menthol / zinc oxide,365,50
+vitamin a & d,582,50
+"vitamins a, d, and e",584,50
+zinc oxide,588,50
+miconazole / zinc oxide,381,50
+lanolin,330,50
+menthol / zinc oxide,365,50
+vitamin a & d,582,50
+"vitamins a, d, and e",584,50
+zinc oxide,588,50
+miconazole / zinc oxide,381,50
+lanolin,330,50
+menthol / zinc oxide,365,50
+vitamin a & d,582,50
+"vitamins a, d, and e",584,50
+zinc oxide,588,50
+miconazole / zinc oxide,381,50
+lanolin,330,50
+menthol / zinc oxide,365,50
+vitamin a & d,582,50
+"vitamins a, d, and e",584,50
+zinc oxide,588,50
+miconazole / zinc oxide,381,50
+lanolin,330,50
+menthol / zinc oxide,365,50
+vitamin a & d,582,50
+"vitamins a, d, and e",584,50
+clobetasol,144,105
+triamcinolone,563,105
+prednisone,472,105
+triamcinolone,563,105
+betamethasone,74,105
+fluocinonide,256,105
+triamcinolone,563,55
+mometasone,389,55
+hydrocortisone,280,55
+clobetasol,144,55
+desonide,181,55
+prednisone,472,55
+fluocinonide,256,55
+ranitidine,490,55
+desoximetasone,182,55
+methotrexate,372,55
+halobetasol,274,55
+pimecrolimus,458,55
+dexamethasone,184,55
+fluocinolone,255,55
+alclometasone,12,55
+azathioprine,61,55
+triamcinolone,563,55
+mometasone,389,55
+hydrocortisone,280,55
+clobetasol,144,55
+desonide,181,55
+prednisone,472,55
+fluocinonide,256,55
+ranitidine,490,55
+desoximetasone,182,55
+methotrexate,372,55
+halobetasol,274,55
+pimecrolimus,458,55
+dexamethasone,184,55
+fluocinolone,255,55
+alclometasone,12,55
+azathioprine,61,55
+triamcinolone,563,55
+mometasone,389,55
+hydrocortisone,280,55
+clobetasol,144,55
+desonide,181,55
+prednisone,472,55
+fluocinonide,256,55
+ranitidine,490,55
+desoximetasone,182,55
+methotrexate,372,55
+halobetasol,274,55
+pimecrolimus,458,55
+dexamethasone,184,55
+fluocinolone,255,55
+alclometasone,12,55
+azathioprine,61,55
+triamcinolone,563,55
+mometasone,389,55
+hydrocortisone,280,55
+clobetasol,144,55
+desonide,181,55
+prednisone,472,55
+fluocinonide,256,55
+ranitidine,490,55
+desoximetasone,182,55
+methotrexate,372,55
+halobetasol,274,55
+pimecrolimus,458,55
+dexamethasone,184,55
+fluocinolone,255,55
+alclometasone,12,55
+azathioprine,61,55
+triamcinolone,563,55
+mometasone,389,55
+hydrocortisone,280,55
+clobetasol,144,55
+desonide,181,55
+prednisone,472,55
+fluocinonide,256,55
+ranitidine,490,55
+desoximetasone,182,55
+methotrexate,372,55
+halobetasol,274,55
+pimecrolimus,458,55
+dexamethasone,184,55
+fluocinolone,255,55
+alclometasone,12,55
+azathioprine,61,55
+risperidone,499,13
+olanzapine,415,13
+lisdexamfetamine,345,13
+chlorhexidine,129,116
+palifermin,433,116
+saliva substitutes,505,116
+sodium hyaluronate,512,116
+nystatin,412,135
+clotrimazole,149,135
+mupirocin,393,135
+econazole,212,135
+bacitracin / neomycin / polymyxin b,66,135
+bacitracin / hydrocortisone / neomycin / polymyxin b,65,135
+gentamicin,267,135
+gabapentin,264,174
+naproxen,399,174
+ibuprofen,293,174
+pregabalin,473,174
+acetazolamide,4,153
+acetazolamide,4,153
+acetazolamide,4,153
+acetazolamide,4,153
+acetazolamide,4,153
+acetazolamide,4,153
